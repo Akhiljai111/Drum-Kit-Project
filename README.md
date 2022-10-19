@@ -1,70 +1,67 @@
-# Drum-Kit-Project
-# hacktoberfest
-Participate in Hacktoberfest and contribute to Open Source using this repository. We aim to help you get started in Open Source contribution by accepting your pull requests for programs containing code for any Data Structures and Algorithms problem only.
+#  HacktoberFest is here!!
 
-1 Table of content :
-2 About Hacktober fest 2022
-3 Contributing & Guidelines
-4 How to contribute
-5 Tech stack
-6 Authors
-7 End notes
-About Hacktoberfest 🤖
+Use this repository to make your first and easy contribution to open source world. Create and easy pull request by following the steps given below.
 
-Contributing & Guidelines 👀
-Contributions are always welcome!
+Celebrate [HacktoberFest](https://hacktoberfest.digitalocean.com/) by getting involved in the Open Source Community by completing some simple tasks in this project.
 
-Make sure you have followed me on GitHub and starred this repository. Although this is not mandatory, doing so really motivates me to keep making more awesome content.
+This repository is open to all members of the GitHub Community. Any member may contribute to this project without being a collaborator.
 
-By contributing to this project, you adhere to this project's code of conduct. They are as follows:-
+[https://github.com/sbmxc/hacktoberfest](https://github.com/sbmsc/hacktoberfest)
 
-Your code must be properly formatted.
-The code you contribute you must be your own.
-Your code must be error and bug free.
-File structure must be proper. You must write the code for a particular language in that particular folder. For example, write Java code in the Java folder and Python code in Python folder, etc.
-Inside a folder, write the program in a subfolder for that particular topic. For example, write Array programs in Array folder, Linked List programs in LinkedList folder, etc.
-Make sure you exclude the auto-generated files by adding them in .gitignore.
-Do not spam.
-Note: The maintainers of this repository may not accept your changes if they do not meet our standards.
-
-How to Contribute 👨‍💻
-Before contributing, make sure you have read the contribution guidelines above. Failing to meet our standards, your contributions will not be merged. With that out of the way, let's get our hands dirty by writing some code.
-
-Go to the folder where you want to clone this project then do the following.
-
-Clone the project
-
-  git clone git@github.com:ravi-mohans/hacktoberfestdsa.git
-Open the folder in the code editor of your choice and make the changes.
-
-Stage the changes
-
-  git add .
-Commit the changes
-
-  git commit -m "Your commit message here"
-Push the changes to github
-
-  git push
-Once you have successfully pushed the project, open GitHub and click on the dropdown next to Contribute and click on Open pull request.
-
-After that, write a message and a comment (optional). Then click on Create pull request.
-
-Tech Stack ✨
-We do not limit your knowledge. Hence we accept all programming languages. You should, however, write your code for a particular language in a that particular folder. In case a folder does not exist for a particular language, create one. Failing to do so will result in your pull request getting rejected.
-
-If you are a beginner and do not know which language to get started with,  C++ or Python is recommended. These are some standard languages to start your programming journey.
-
-Note: You must add the corresponding auto-generated file in the .gitignore file.
-
-Authors 🐱‍💻
-Hi! I am ravi mohan, a c++ coder and competetive programmer. I am currently in 2nd year of my Computer Science and Engineering degree and like making videos on YouTube about various topics on various programming topics.
+ Also, checkout other repositories of mine if you find you can improve something there. You are more than welcome to make PR there as well. Although, that would only be approved if you enhance the existing apps.
 
 
+## What is Hacktoberfest and how many times it is organised in a year?
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first Pull Request to any Public Repository on GitHub and contribute to the Open Source Developer Community.
 
-End talk
-. It is you all who made Hacktoberfest such a successful event.
+[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-Thank you so much for reading this readme. I really appreciate it.
 
-Cheers! 🍻
+## How Contribute to This Project
+Here is a simple way to contribut to the project.
+
+
+## Getting Started
+* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Clone your fork down to your local machine
+```markdown
+git clone <url> (given in clone or download button)
+```
+* Run in your localhost
+```markdown
+npm install
+```
+```markdown
+npm start
+```
+
+* Make your changes (Choose from any task below)
+* Commit and Push
+```markdown
+git add .
+git commit -m 'commit message'
+go to your forked project and Sync fork
+git pull origin branch-name(main/master)
+git push origin branch-name(main/master)
+```
+* Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
+* Wait for your PR review and merge approval!
+* __Star this repository__ for higher chance of merge approval!
+
+
+## Reference Links
+Here is a great tutorial for creating your first Pull Request by [Roshan Jossey](https://github.com/Roshanjossey)
+[https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
+
+Managing your Forked Repo [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
+
+Syncing a Fork [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
+
+Keep Your Fork Synced [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
+
+Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+
+## Content courtesy
+[https://github.com/AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) 
